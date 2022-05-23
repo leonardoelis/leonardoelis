@@ -1,5 +1,5 @@
 ### Olá, me chamo Leonardo Elis! 👋
-<hr><img style="float: right" align="right" width="160" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
+<hr><img align="right" width="160" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 - Desenvolvedor back-end <br>
 📚 - Formado em Ciência da Computação pela Universidade Anhembi Morumbi <br>
