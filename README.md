@@ -16,7 +16,7 @@
 <div>
  <a href="https://github.com/leonardoelis">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoelis&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoelis&hide=jupyter notebook&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoelis&exclude_repo=AnaliseFIFA19&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ### Hard Skills
