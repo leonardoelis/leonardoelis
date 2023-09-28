@@ -3,6 +3,7 @@
 <div style="display: inline_block"><br>
 💻 - Desenvolvedor back-end <br>
 📚 - Formado em Ciência da Computação pela Universidade Anhembi Morumbi <br>
+📚 - Cursando MBA em Engenharia de Software na FIAP <br>
 </div>
 
 <div style="display: inline_block"><br>
